@@ -1,0 +1,6 @@
+img {
+    width: 755px;
+    height: 549px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
